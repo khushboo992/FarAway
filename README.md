@@ -37,7 +37,7 @@ src/
 - **Stats** – Shows real-time packing progress
 
 ## Screenshot
-(Add application UI screenshot below)
+
 
 ![App Screenshot](./Screenshot%202026-02-05%20190425.png)
 

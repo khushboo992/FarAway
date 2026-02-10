@@ -39,7 +39,7 @@ src/
 ## Screenshot
 (Add application UI screenshot below)
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Screenshot%202026-02-05%20190425.png)
 
 ## Key Learnings
 - Implemented efficient state management using React Hooks

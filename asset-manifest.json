@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PrimePack/static/css/main.b517c26e.css",
+    "main.js": "/PrimePack/static/js/main.538c800a.js",
+    "index.html": "/PrimePack/index.html",
+    "main.b517c26e.css.map": "/PrimePack/static/css/main.b517c26e.css.map",
+    "main.538c800a.js.map": "/PrimePack/static/js/main.538c800a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b517c26e.css",
+    "static/js/main.538c800a.js"
+  ]
+}

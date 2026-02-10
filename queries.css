@@ -1,0 +1,62 @@
+/* --- TABLETS (Below 900px) --- */
+@media (max-width: 56em) {
+  /* 900px / 16 */
+  h1 {
+    font-size: 6rem;
+    word-spacing: 15px;
+  }
+
+  .add-form {
+    flex-direction: column;
+    padding: 2.4rem 1.2rem;
+    gap: 1.2rem;
+  }
+
+  h3 {
+    margin-right: 0;
+    margin-bottom: 0.8rem;
+    text-align: center;
+  }
+}
+
+/* --- MOBILE PHONES (Below 600px) --- */
+@media (max-width: 37.5em) {
+  /* 600px / 16 */
+  h1 {
+    font-size: 4.5rem;
+    letter-spacing: -2px;
+    padding: 1.6rem 0;
+  }
+
+  .add-form input,
+  .add-form select,
+  .add-form button {
+    width: 90%; /* Make inputs easier to tap */
+    padding: 1.2rem;
+  }
+
+  .list ul {
+    width: 95%;
+    /* Force 1 column if items are still too wide */
+    grid-template-columns: 1fr;
+  }
+
+  .actions {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    width: 80%;
+  }
+
+  .actions button,
+  .list select {
+    margin: 0;
+    width: 100%;
+  }
+
+  .stats em {
+    font-size: 1.6rem;
+    padding: 0 2rem;
+    display: block;
+  }
+}
